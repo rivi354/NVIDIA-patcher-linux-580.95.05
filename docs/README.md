@@ -1,5 +1,8 @@
 #
 Linux run binary.
+Archived
+Go to https://github.com/dartraiden/NVIDIA-patcher and grab zip file for Linux
+
  # NVIDIA patched drivers
 Adds 3D acceleration support for P106-090 / P106-100 / P104-100 / P104-101 / P102-100 / CMP 30HX / CMP 40HX / CMP 50HX / CMP 70HX / CMP 90HX / CMP 170HX mining cards as well as RTX 3060 3840SP, RTX 3080 Ti 20 GB, RTX 4070 10 GB, and L40 ES.
 
@@ -114,5 +117,6 @@ Note: You do not need to double-click the shortcut again; this is a one-time set
 
 ## DirectX 12 on Haswell
 https://www.techpowerup.com/288676/intel-disables-directx-12-api-loading-on-haswell-processors
+
 
 
